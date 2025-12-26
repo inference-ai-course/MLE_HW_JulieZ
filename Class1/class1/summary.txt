@@ -1,0 +1,8 @@
+[Learned]
+- Setup environment
+- Basic prompt tips and types
+- Basic steps to call API
+
+[To improve]
+- Detailed instruction helps students ramp up faster
+- In the lecture 1 homework, don't let student type in OpenAI token or add warning for them not to submit it 
